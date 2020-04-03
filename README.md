@@ -1,5 +1,5 @@
 # data-mining-algorithm
-Naive Bayes and SVM classification methods
+Naive Bayes and SVM classification methods with python
 
 Requirement
 1. sklearn
